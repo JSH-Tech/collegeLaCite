@@ -10,5 +10,10 @@ public class Main {
             nb++;
         }
         System.out.println(somme);
+
+        int nombre = 12345; // Remplacez par votre nombre
+        int longueur = (int) Math.log10(nombre) + 1;
+        System.out.println("Le nombre " + nombre + " contient " + longueur + " chiffres.");
+
     }
 }
