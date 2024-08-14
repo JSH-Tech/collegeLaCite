@@ -1,0 +1,7 @@
+C:\Users\abots\OneDrive\Bureau\Module11Interfaces\obj\Debug\Module11Interfaces.csproj.AssemblyReference.cache
+C:\Users\abots\OneDrive\Bureau\Module11Interfaces\obj\Debug\Module11Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\abots\OneDrive\Bureau\Module11Interfaces\bin\Debug\Module11Interfaces.exe.config
+C:\Users\abots\OneDrive\Bureau\Module11Interfaces\bin\Debug\Module11Interfaces.exe
+C:\Users\abots\OneDrive\Bureau\Module11Interfaces\bin\Debug\Module11Interfaces.pdb
+C:\Users\abots\OneDrive\Bureau\Module11Interfaces\obj\Debug\Module11Interfaces.exe
+C:\Users\abots\OneDrive\Bureau\Module11Interfaces\obj\Debug\Module11Interfaces.pdb

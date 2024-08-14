@@ -1,0 +1,7 @@
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\LaboratoireCinq\obj\Debug\LaboratoireCinq.csproj.AssemblyReference.cache
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\LaboratoireCinq\obj\Debug\LaboratoireCinq.csproj.CoreCompileInputs.cache
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\LaboratoireCinq\bin\Debug\LaboratoireCinq.exe.config
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\LaboratoireCinq\bin\Debug\LaboratoireCinq.exe
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\LaboratoireCinq\bin\Debug\LaboratoireCinq.pdb
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\LaboratoireCinq\obj\Debug\LaboratoireCinq.exe
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\LaboratoireCinq\obj\Debug\LaboratoireCinq.pdb

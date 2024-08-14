@@ -1,0 +1,7 @@
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Biblio\bin\Debug\Biblio.exe.config
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Biblio\bin\Debug\Biblio.exe
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Biblio\bin\Debug\Biblio.pdb
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Biblio\obj\Debug\Biblio.csproj.AssemblyReference.cache
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Biblio\obj\Debug\Biblio.csproj.CoreCompileInputs.cache
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Biblio\obj\Debug\Biblio.exe
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Biblio\obj\Debug\Biblio.pdb

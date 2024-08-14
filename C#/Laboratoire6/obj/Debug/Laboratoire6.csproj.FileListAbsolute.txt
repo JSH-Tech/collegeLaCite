@@ -1,0 +1,7 @@
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Laboratoire6\bin\Debug\Laboratoire6.exe.config
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Laboratoire6\bin\Debug\Laboratoire6.exe
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Laboratoire6\bin\Debug\Laboratoire6.pdb
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Laboratoire6\obj\Debug\Laboratoire6.csproj.AssemblyReference.cache
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Laboratoire6\obj\Debug\Laboratoire6.csproj.CoreCompileInputs.cache
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Laboratoire6\obj\Debug\Laboratoire6.exe
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Laboratoire6\obj\Debug\Laboratoire6.pdb

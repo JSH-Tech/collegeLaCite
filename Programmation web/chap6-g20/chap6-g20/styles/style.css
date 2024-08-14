@@ -1,0 +1,126 @@
+header .wrapper, nav ul, .planting{
+    display: flex;
+}
+
+.wrapper{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header .wrapper, .planting{ 
+    justify-content: space-between;
+
+}
+
+header .wrapper{
+    align-items: center;
+}
+
+ul{
+    padding: 0;
+}
+
+header a{
+    text-decoration: none;
+    color: white;
+    text-transform: capitalize;
+}
+
+header{
+    background-color: black;
+}
+
+body{
+    margin: 0;
+}
+
+.logo a{
+    font-size: 2em;
+    text-transform: uppercase;
+}
+
+.logo span{
+    color:green;
+}
+
+nav li{
+    list-style: none;
+    margin-right: 15px;
+}
+
+.planting img{
+    float: left;
+    margin-right: 20px;
+}
+
+.planting li{
+    list-style: square;
+}
+
+.planting ul{
+    margin-top: 20px;
+}
+
+.planting>div{
+    flex-basis: 50%;
+}
+
+.planting{
+    gap: 20px;
+}
+
+.planting h2{
+    text-transform: uppercase;
+    color: green;
+    text-align: center;
+}
+
+.planting a{
+ color: #23a423;
+}
+
+.info-compte{
+    text-align: center;
+}
+
+.info-compte p{
+    text-align: left;
+}
+
+.info-compte button{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+    cursor: pointer;
+}
+
+img{
+    max-width: 100%;
+}
+
+h1{
+    position: absolute;/*Le parent doit toujours etre relative quand lenfant est absolute*/
+    font-size: 6rem;
+    text-transform: uppercase;
+    top: 0;
+    left: 0;
+    color: white;
+}
+
+main{
+    position: relative;
+}
+
+@media screen and (max-width:768px) {
+    .planting{
+        margin: 0 20px;
+    }
+
+    .planting, nav ul{
+        flex-direction: column;
+        align-items: center;
+        margin: 0 20px;
+    }
+}

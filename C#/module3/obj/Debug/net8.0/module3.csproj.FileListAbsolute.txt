@@ -1,0 +1,15 @@
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\module3\bin\Debug\net8.0\module3.exe
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\module3\bin\Debug\net8.0\module3.deps.json
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\module3\bin\Debug\net8.0\module3.runtimeconfig.json
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\module3\bin\Debug\net8.0\module3.dll
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\module3\bin\Debug\net8.0\module3.pdb
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\module3\obj\Debug\net8.0\module3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\module3\obj\Debug\net8.0\module3.AssemblyInfoInputs.cache
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\module3\obj\Debug\net8.0\module3.AssemblyInfo.cs
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\module3\obj\Debug\net8.0\module3.csproj.CoreCompileInputs.cache
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\module3\obj\Debug\net8.0\module3.sourcelink.json
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\module3\obj\Debug\net8.0\module3.dll
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\module3\obj\Debug\net8.0\refint\module3.dll
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\module3\obj\Debug\net8.0\module3.pdb
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\module3\obj\Debug\net8.0\module3.genruntimeconfig.cache
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\module3\obj\Debug\net8.0\ref\module3.dll

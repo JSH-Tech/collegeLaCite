@@ -1,0 +1,54 @@
+.title{
+    color: blue;
+    text-align: center;
+}
+
+.contenu{
+    text-align: center;
+}
+.tableau{
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    width: 50%;
+    color: blue;
+}
+td{
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    width: 50%;
+    color: black;
+}
+
+.lestabs{
+    margin-left: 30%;
+}
+
+.titretab{
+    margin-left: 10%;
+}
+
+.list{
+    margin-left: 40%;
+}
+
+img{
+    width: 50%;
+    height: 50%;
+}
+
+.formulaire{
+    color: darkviolet;
+    text-align: center;
+}
+.decouvertedesformulaire{
+    text-align: center;
+    color: darkviolet;
+}
+
+fieldset{
+    width: auto;
+    height: auto;
+}

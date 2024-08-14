@@ -1,0 +1,15 @@
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Laboratoire1\bin\Debug\net8.0\Laboratoire1.exe
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Laboratoire1\bin\Debug\net8.0\Laboratoire1.deps.json
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Laboratoire1\bin\Debug\net8.0\Laboratoire1.runtimeconfig.json
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Laboratoire1\bin\Debug\net8.0\Laboratoire1.dll
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Laboratoire1\bin\Debug\net8.0\Laboratoire1.pdb
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Laboratoire1\obj\Debug\net8.0\Laboratoire1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Laboratoire1\obj\Debug\net8.0\Laboratoire1.AssemblyInfoInputs.cache
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Laboratoire1\obj\Debug\net8.0\Laboratoire1.AssemblyInfo.cs
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Laboratoire1\obj\Debug\net8.0\Laboratoire1.csproj.CoreCompileInputs.cache
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Laboratoire1\obj\Debug\net8.0\Laboratoire1.sourcelink.json
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Laboratoire1\obj\Debug\net8.0\Laboratoire1.dll
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Laboratoire1\obj\Debug\net8.0\refint\Laboratoire1.dll
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Laboratoire1\obj\Debug\net8.0\Laboratoire1.pdb
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Laboratoire1\obj\Debug\net8.0\Laboratoire1.genruntimeconfig.cache
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Laboratoire1\obj\Debug\net8.0\ref\Laboratoire1.dll

@@ -1,0 +1,7 @@
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\pooPratique\bin\Debug\pooPratique.exe.config
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\pooPratique\bin\Debug\pooPratique.exe
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\pooPratique\bin\Debug\pooPratique.pdb
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\pooPratique\obj\Debug\pooPratique.csproj.AssemblyReference.cache
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\pooPratique\obj\Debug\pooPratique.csproj.CoreCompileInputs.cache
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\pooPratique\obj\Debug\pooPratique.exe
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\pooPratique\obj\Debug\pooPratique.pdb

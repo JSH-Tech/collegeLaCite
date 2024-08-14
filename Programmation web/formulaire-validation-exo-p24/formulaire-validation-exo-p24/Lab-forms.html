@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Formulaires</title>
+	<link rel="stylesheet" href="./style/style.css">
+	<script src="./script/script.js"></script>
+</head>
+
+<body>
+	<header></header>
+	<main>
+		<h1>Shopping Cart</h1>
+
+		<!--#### SHIPPING FORM ####-->
+		<form action="#" method="post" id="shippingForm" name="form_ship">
+			<fieldset>
+				<legend>Please complete your shipping preferences - Note that all fields are required</legend>
+
+				<!--SPEED OF DELIVERY-->
+				<div>
+					<label for="speed">Select your speed of delivery</label>
+					<select id="speed" name="speed">
+						<option value="0">===SELECT===</option>
+						<option value="8">Regular Delivery</option>
+						<option value="20">Express Delivery</option>
+						<option value="100">Next Day Delivery</option>
+					</select>
+					<div></div>
+				</div>
+
+				<!--USER INFORMATION-->
+				<fieldset>
+					<legend>Your Information</legend>
+
+					<!-- NAME -->
+					<div><label for="fname">Your Name:</label>
+						<input type="text" id="fname" name="fname" />
+						<div></div>
+					</div>
+
+					<!-- CUSTOMER ID -->
+					<div><label for="identity">Customer ID#:</label>
+						<input type="text" id="identity" name="identity" />&nbsp;&nbsp;(e.g. 987654)
+						<div></div>
+					</div>
+
+					<!-- POSTAL CODE -->
+					<label for="postcode">Postal Code:</label>
+					<input type="text" id="postcode" name="postcode" />&nbsp;&nbsp;(Canada Only)
+					<div></div>
+				</fieldset>
+
+				<!-- SUBMIT -->
+				<input type="submit" value="Complete your purchase" name="submit">
+				<div></div>
+
+			</fieldset>
+		</form>
+
+
+		<!--#### OUTPUT MESSAGE (HIDDEN UNTIL FORM VALIDATES) #### -->
+		<div id="thanks_msg">
+			<h2>Thank you <span id="thanksCustomer"></span> for your purchase!</h2>
+			<div>
+				<p>Your package will be sent
+					by <span id="thanksSpeed"></span> <!--UNCOMMENT FOR EXTRA CHALLENGE-->
+					to <span id="thanksPC">you</span>.</p>
+				<p>The cost of shipping will be $<span id="thanksCost"></span>.</p> <!--UNCOMMENT FOR EXTRA CHALLENGE-->
+			</div>
+		</div>
+		<div id="serveur"></div>
+	</main>
+	<footer></footer>
+
+</body>
+
+</html>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MenuPersonel">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="139dp"
+            android:layout_height="113dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="3dp"
+            app:srcCompat="@drawable/patient" />
+
+        <Button
+            android:id="@+id/btn_AjoutPatient"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="3dp"
+            android:text="DOSSIER PATIENT" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="139dp"
+            android:layout_height="113dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="3dp"
+            app:srcCompat="@drawable/oip__1_" />
+
+        <Button
+            android:id="@+id/btn_ajouterSoignant"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="3dp"
+            android:text="DOSSIER SOIGNANT" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="139dp"
+            android:layout_height="113dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="3dp"
+            app:srcCompat="@drawable/kindpng_349209" />
+
+        <Button
+            android:id="@+id/btn_Consultation"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="3dp"
+            android:text="CONSULTATION"
+            app:iconSize="24dip" />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="139dp"
+            android:layout_height="113dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="3dp"
+            app:srcCompat="@drawable/traitement" />
+
+        <Button
+            android:id="@+id/btn_Traitement"
+            android:layout_width="202dp"
+            android:layout_height="54dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="3dp"
+            android:text="TRAITEMENTS" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

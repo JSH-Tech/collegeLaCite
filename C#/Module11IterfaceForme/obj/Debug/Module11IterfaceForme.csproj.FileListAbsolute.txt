@@ -1,0 +1,7 @@
+C:\Users\abots\OneDrive\Bureau\Module11IterfaceForme\obj\Debug\Module11IterfaceForme.csproj.AssemblyReference.cache
+C:\Users\abots\OneDrive\Bureau\Module11IterfaceForme\obj\Debug\Module11IterfaceForme.csproj.CoreCompileInputs.cache
+C:\Users\abots\OneDrive\Bureau\Module11IterfaceForme\bin\Debug\Module11IterfaceForme.exe.config
+C:\Users\abots\OneDrive\Bureau\Module11IterfaceForme\bin\Debug\Module11IterfaceForme.exe
+C:\Users\abots\OneDrive\Bureau\Module11IterfaceForme\bin\Debug\Module11IterfaceForme.pdb
+C:\Users\abots\OneDrive\Bureau\Module11IterfaceForme\obj\Debug\Module11IterfaceForme.exe
+C:\Users\abots\OneDrive\Bureau\Module11IterfaceForme\obj\Debug\Module11IterfaceForme.pdb

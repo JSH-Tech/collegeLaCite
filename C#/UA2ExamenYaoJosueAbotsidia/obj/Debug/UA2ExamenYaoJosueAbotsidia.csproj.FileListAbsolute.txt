@@ -1,0 +1,7 @@
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\UA2ExamenYaoJosueAbotsidia\bin\Debug\UA2ExamenYaoJosueAbotsidia.exe.config
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\UA2ExamenYaoJosueAbotsidia\bin\Debug\UA2ExamenYaoJosueAbotsidia.exe
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\UA2ExamenYaoJosueAbotsidia\bin\Debug\UA2ExamenYaoJosueAbotsidia.pdb
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\UA2ExamenYaoJosueAbotsidia\obj\Debug\UA2ExamenYaoJosueAbotsidia.csproj.AssemblyReference.cache
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\UA2ExamenYaoJosueAbotsidia\obj\Debug\UA2ExamenYaoJosueAbotsidia.csproj.CoreCompileInputs.cache
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\UA2ExamenYaoJosueAbotsidia\obj\Debug\UA2ExamenYaoJosueAbotsidia.exe
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\UA2ExamenYaoJosueAbotsidia\obj\Debug\UA2ExamenYaoJosueAbotsidia.pdb

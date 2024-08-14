@@ -1,0 +1,25 @@
+.rectangle{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    color: white;
+    transition: all 2s;
+}
+
+.rectangle:hover{
+    background-color: red;
+    font-size: 32em;
+}
+
+.cercle{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border-radius: 50%;
+    transition: all 2s;
+}
+
+.cercle:hover{
+    transform: scale(2) translate(1500px);
+    background-color: blue;
+}

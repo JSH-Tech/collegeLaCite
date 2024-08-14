@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <View
+        android:id="@+id/viewRouge"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:background="#FF0000"
+        app:layout_constraintBottom_toTopOf="@+id/operationTextView"
+        app:layout_constraintEnd_toStartOf="@+id/viewBleu"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/dragButton" />
+
+    <View
+        android:id="@+id/viewBleu"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:background="#0000FF"
+        app:layout_constraintBottom_toBottomOf="@+id/viewRouge"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/viewRouge" />
+
+    <Button
+        android:id="@+id/dropButton"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="DROP"
+        app:layout_constraintEnd_toStartOf="@+id/delButton"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/dragButton"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/dragButton"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="DRAG"
+        app:layout_constraintBottom_toBottomOf="@+id/dropButton"
+        app:layout_constraintEnd_toStartOf="@+id/dropButton"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/delButton"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="DEL"
+        app:layout_constraintBottom_toBottomOf="@+id/dropButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/dropButton" />
+
+    <TextView
+        android:id="@+id/operationTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DRAG"
+        android:textColor="#C5C7C9"
+        android:textSize="34sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

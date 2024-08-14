@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HealthCareSoftware</string>
+    <string name="btn_connexion">Connexion</string>
+    <string name="text_identifiant">Identifiant</string>
+    <string name="text_mot_de_passe">Mot de passe</string>
+    <string name="description_logo">Logo</string>
+    <string name="nom_patient">Nom</string>
+    <string name="prenom_patient_hint">Prenom</string>
+    <string name="date_de_naissance_patient_hint">Date de naissance</string>
+    <string name="sexe_patient_hint">Sexe</string>
+    <string name="situation_matrimoniale_patient_hint">Situation matrimoniale</string>
+    <string name="telephone_hint">Telephone</string>
+    <string name="occupation_hint">Occupation</string>
+    <string name="pays_hint">Pays</string>
+    <string name="ville_hint">Ville</string>
+    <string name="btn_Enregister">Enregistrer</string>
+    <string name="image_de_prise_d_information">image de prise d\'information</string>
+</resources>

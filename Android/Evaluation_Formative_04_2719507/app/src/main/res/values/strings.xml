@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Evaluation_Formative_04_2719507</string>
+    <string name="annuler">Annuler</string>
+    <string name="accepter">Accepter</string>
+    <string name="effacer">Effacer</string>
+    <string name="adresse">Adresse</string>
+    <string name="courriel">Courriel</string>
+    <string name="nom">Nom</string>
+    <string name="telephone">Telephone</string>
+</resources>

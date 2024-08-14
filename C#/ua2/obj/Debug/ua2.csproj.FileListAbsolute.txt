@@ -1,0 +1,7 @@
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\ua2\bin\Debug\ua2.exe.config
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\ua2\bin\Debug\ua2.exe
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\ua2\bin\Debug\ua2.pdb
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\ua2\obj\Debug\ua2.csproj.AssemblyReference.cache
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\ua2\obj\Debug\ua2.csproj.CoreCompileInputs.cache
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\ua2\obj\Debug\ua2.exe
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\ua2\obj\Debug\ua2.pdb

@@ -1,0 +1,7 @@
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Yao_Josue_Abotsidia_2719507\bin\Debug\Yao_Josue_Abotsidia_2719507.exe.config
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Yao_Josue_Abotsidia_2719507\bin\Debug\Yao_Josue_Abotsidia_2719507.exe
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Yao_Josue_Abotsidia_2719507\bin\Debug\Yao_Josue_Abotsidia_2719507.pdb
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Yao_Josue_Abotsidia_2719507\obj\Debug\Yao_Josue_Abotsidia_2719507.csproj.AssemblyReference.cache
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Yao_Josue_Abotsidia_2719507\obj\Debug\Yao_Josue_Abotsidia_2719507.csproj.CoreCompileInputs.cache
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Yao_Josue_Abotsidia_2719507\obj\Debug\Yao_Josue_Abotsidia_2719507.exe
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Yao_Josue_Abotsidia_2719507\obj\Debug\Yao_Josue_Abotsidia_2719507.pdb

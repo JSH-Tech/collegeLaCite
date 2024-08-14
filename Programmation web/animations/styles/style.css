@@ -1,0 +1,119 @@
+/*Utilisation des transitions */
+.rectangle {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    margin-left: 200px;
+    color: #fff;
+    font-size: 24px;
+    text-align: center;
+    transition: all 2s;
+}
+
+/*La transition va avoir lieu quand la souris est posee sur le rectangle*/
+.rectangle:hover {
+    background-color: orangered;
+    font-size: 50px;
+}
+
+/*Utilisation des transformations */
+.cercle {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: red;
+    /* margin-left: 200px; */
+    margin-top: 20px;
+    transition: all 1s;
+
+}
+
+/* Bloc pour positionne le cercle a droit avec les flex box */
+.parent {
+    display: flex;
+    justify-content: flex-end; /*contenu a droite*/
+}
+
+/*Deplacer le cercle en direction des x negatifs tout en changeant sa taille */
+.cercle:hover {
+    background-color: blue;
+    transform: scale(0.75) translateX(-1500px);
+}
+
+/*Mouvement dans le ciel*/
+
+.ciel {
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    align-items: end;
+    width: 1500px;
+    height: 200px;
+    border: 2px solid green;
+    background-color: #1c1341;
+    margin-bottom: 100px;
+    animation: ciel 12s linear;
+}
+
+.soleil {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: red;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    animation: soleil 12s linear;
+}
+
+.ciel:hover, .ciel:hover .soleil {
+    animation-play-state: paused;
+}
+
+/* Definition des differentes etapes du mouvement du soleil */
+@keyframes soleil {
+    0% {
+        bottom: 0px;
+        right: 0px;
+
+    }
+
+    50% {
+        bottom: 100px;
+        right: 50%;
+        background-color: yellow;
+    }
+
+
+    100% {
+        bottom: 0px;
+        right: 100%;
+        background-color: orangered;
+    }
+}
+
+/* Definition les couleurs en fonction du moment de la journee */
+@keyframes ciel {
+    0% {
+        background-color: #1c1341;
+    }
+    25% {
+        background-color: darkorange;
+    }
+
+    50% {
+        background-color: skyblue;
+
+    }
+
+    75% {
+        background-color: crimson;
+
+    }
+
+    100% {
+        background-color: #1c1341;
+
+    }
+
+}

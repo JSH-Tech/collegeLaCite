@@ -1,0 +1,7 @@
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\ua2versionchat\bin\Debug\ua2versionchat.exe.config
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\ua2versionchat\bin\Debug\ua2versionchat.exe
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\ua2versionchat\bin\Debug\ua2versionchat.pdb
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\ua2versionchat\obj\Debug\ua2versionchat.csproj.AssemblyReference.cache
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\ua2versionchat\obj\Debug\ua2versionchat.csproj.CoreCompileInputs.cache
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\ua2versionchat\obj\Debug\ua2versionchat.exe
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\ua2versionchat\obj\Debug\ua2versionchat.pdb

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abots\\OneDrive\\Bureau\\collegeLaCite\\collegeLaCite\\C#\\ua2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D4058-FA52-4A5E-82F7-0811345EB8B8}|ua2.csproj|C:\\Users\\abots\\OneDrive\\Bureau\\collegeLaCite\\collegeLaCite\\C#\\ua2\\rationel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D4058-FA52-4A5E-82F7-0811345EB8B8}|ua2.csproj|solutionrelative:rationel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D4058-FA52-4A5E-82F7-0811345EB8B8}|ua2.csproj|c:\\users\\abots\\onedrive\\bureau\\collegelacite\\collegelacite\\c#\\ua2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D4058-FA52-4A5E-82F7-0811345EB8B8}|ua2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D4058-FA52-4A5E-82F7-0811345EB8B8}|ua2.csproj|C:\\Users\\abots\\OneDrive\\Bureau\\collegeLaCite\\collegeLaCite\\C#\\ua2\\nombre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D4058-FA52-4A5E-82F7-0811345EB8B8}|ua2.csproj|solutionrelative:nombre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nombre.cs",
+              "DocumentMoniker": "C:\\Users\\abots\\OneDrive\\Bureau\\collegeLaCite\\collegeLaCite\\C#\\ua2\\Nombre.cs",
+              "RelativeDocumentMoniker": "Nombre.cs",
+              "ToolTip": "C:\\Users\\abots\\OneDrive\\Bureau\\collegeLaCite\\collegeLaCite\\C#\\ua2\\Nombre.cs",
+              "RelativeToolTip": "Nombre.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T21:41:50.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rationel.cs",
+              "DocumentMoniker": "C:\\Users\\abots\\OneDrive\\Bureau\\collegeLaCite\\collegeLaCite\\C#\\ua2\\Rationel.cs",
+              "RelativeDocumentMoniker": "Rationel.cs",
+              "ToolTip": "C:\\Users\\abots\\OneDrive\\Bureau\\collegeLaCite\\collegeLaCite\\C#\\ua2\\Rationel.cs",
+              "RelativeToolTip": "Rationel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T21:04:29.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abots\\OneDrive\\Bureau\\collegeLaCite\\collegeLaCite\\C#\\ua2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\abots\\OneDrive\\Bureau\\collegeLaCite\\collegeLaCite\\C#\\ua2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T21:03:21.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

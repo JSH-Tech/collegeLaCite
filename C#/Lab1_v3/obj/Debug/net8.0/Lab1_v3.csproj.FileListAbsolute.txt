@@ -1,0 +1,15 @@
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Lab1_v3\bin\Debug\net8.0\Lab1_v3.exe
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Lab1_v3\bin\Debug\net8.0\Lab1_v3.deps.json
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Lab1_v3\bin\Debug\net8.0\Lab1_v3.runtimeconfig.json
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Lab1_v3\bin\Debug\net8.0\Lab1_v3.dll
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Lab1_v3\bin\Debug\net8.0\Lab1_v3.pdb
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Lab1_v3\obj\Debug\net8.0\Lab1_v3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Lab1_v3\obj\Debug\net8.0\Lab1_v3.AssemblyInfoInputs.cache
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Lab1_v3\obj\Debug\net8.0\Lab1_v3.AssemblyInfo.cs
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Lab1_v3\obj\Debug\net8.0\Lab1_v3.csproj.CoreCompileInputs.cache
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Lab1_v3\obj\Debug\net8.0\Lab1_v3.sourcelink.json
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Lab1_v3\obj\Debug\net8.0\Lab1_v3.dll
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Lab1_v3\obj\Debug\net8.0\refint\Lab1_v3.dll
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Lab1_v3\obj\Debug\net8.0\Lab1_v3.pdb
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Lab1_v3\obj\Debug\net8.0\Lab1_v3.genruntimeconfig.cache
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\Lab1_v3\obj\Debug\net8.0\ref\Lab1_v3.dll

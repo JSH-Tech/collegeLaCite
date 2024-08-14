@@ -1,0 +1,7 @@
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\ModuleHeritage\bin\Debug\ModuleHeritage.exe.config
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\ModuleHeritage\bin\Debug\ModuleHeritage.exe
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\ModuleHeritage\bin\Debug\ModuleHeritage.pdb
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\ModuleHeritage\obj\Debug\ModuleHeritage.csproj.AssemblyReference.cache
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\ModuleHeritage\obj\Debug\ModuleHeritage.csproj.CoreCompileInputs.cache
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\ModuleHeritage\obj\Debug\ModuleHeritage.exe
+C:\Users\abots\OneDrive\Bureau\collegeLaCite\collegeLaCite\C#\ModuleHeritage\obj\Debug\ModuleHeritage.pdb
